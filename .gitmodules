@@ -1,0 +1,3 @@
+[submodule "private-submodule"]
+	path = private-submodule
+	url = https://github.com/hackeronemundur/pages-submodule-private-20260405.git
